@@ -13,3 +13,5 @@
 
 ##
 
+ ![Snake animation](https://github.com/MrR4ngel/MrR4ngel/blob/output/github-contribution-grid-snake.svg)
+
