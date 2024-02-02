@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Mateus Rangel
-- 🌱 I’m currently learning CSS, HTML and JS
+- 🌱 I’m currently learning CSS, HTML, JS and Qlik Sence
 <div align="center">
   <a href="  <a href="https://github.com/MrR4ngel">
   <img height="145em"src="https://github-readme-stats.vercel.app/api?username=MrR4ngel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&"/>
